@@ -7,8 +7,10 @@ As notas obtidas podem valer até um valor no exame teórico final.
 
 Funcionalidades esperadas :
 
-- Mover um jogador de forma aleatória
+- Desenhar a arena e os jogadores
 - Mostrar a equipa do jogador
 - Mostrar o nome do jogador
-- Matar um jogador que saia dos limites da arena
-- Acabar o jogo quando só restarem jogadore de uma equipa
+- Recolocar um jogador que saia dos limites da arena numa posição aleatória na arena
+- Acabar o jogo quando uma das equipas ficar com zero jogadores
+- Mover os jogador com comportamento de caça
+- Mover os jogador com comportamento de fuga
