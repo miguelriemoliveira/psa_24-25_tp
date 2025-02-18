@@ -15,3 +15,6 @@ Funcionalidades esperadas:
 - Mover os jogador com comportamento de caça
 - Mover os jogador com comportamento de fuga
 - Outros comportamentos mais avançados
+
+
+s
