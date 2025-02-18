@@ -50,12 +50,17 @@ Crie um gráfico mais extenso, por exemplo de -12 a 12, e desenhe a caixa da are
 
 ### Exercício 2.8
 
-Crie um mecanismo para desabilitar jogadores que saiam fora da arena.
+Crie um mecanismo para detetar jogadores que saiam fora da arena e os coloque de volta no centro
 
 ### Exercício 2.9
 
-Crie um mecanismo para caçar um jogador.
+Crie um mecanismo para detetar quando um jogador é caçado.
 
 ### Exercício 2.10
+
+Crie um mecanismo para detetar quando um jogo deve ser terminado.
+
+
+### Exercício 2.11
 
 Implemente funções de movimento mais inteligentes. Cada elemento do grupo deve fazer uma função diferente para cada equipa, por forma a que os jogadores tenham comportamentos diferentes.
