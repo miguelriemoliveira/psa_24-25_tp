@@ -35,4 +35,4 @@ A estrutura de dados escolhida no exercício anterior mantém-se?
 
 ### Exercício 1.4
 
-Crie um programa que analise os dados criados e imprima o nome e a proveniência da pessoa com o número mecanográfico menor.
+Crie um programa que analise os dados criados e imprima o nome e a proveniência da pessoa com o menor número mecanográfico.
