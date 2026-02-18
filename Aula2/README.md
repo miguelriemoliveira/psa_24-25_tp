@@ -1,4 +1,4 @@
-## Aula 2 - Visualização em Matlab
+## Aula 2 - Visualização em Matlab e Preparação do Jogo
 
 Tópicos a abordar:
 
@@ -33,20 +33,21 @@ Sugere-se a criação de uma estrutura em matlab com os campos adequados.
 
 ### Exercício 2.5
 
+Desenhe a caixa da arena.
+
+![Arena](docs/arena_com_caixa.png)
+
+
+### Exercício 2.6
+
 Desenhe os jogadores na sua posição inicial.
 Coloque em cima de cada jogador um texto com o seu nome.
 
 ![Point Moving](docs/desenho_com_texto.png)
 
-### Exercício 2.6
-
-Crie uma função _move_random_ para executar o movimento aleatório dos jogadores.
-
 ### Exercício 2.7
 
-Crie um gráfico mais extenso, por exemplo de -12 a 12, e desenhe a caixa da arena.
-
-![Arena](docs/arena_com_caixa.png)
+Crie uma função _move_random_ para executar o movimento aleatório dos jogadores.
 
 ### Exercício 2.8
 
